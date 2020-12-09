@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T13:36:42.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="S6fowJP469x5O25_zz8s" version="13.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T15:50:44.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="szQ8Va-g4UhHKCV5qbnz" version="13.9.5" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,14 +11,6 @@
         </object>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fillColor=#FF9933;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry x="65" y="60" width="10" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="uPZaJIyxfJ7PoCBkE-e1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-1" source="3nuBFxr9cyL0pnOWT2aG-2" target="3nuBFxr9cyL0pnOWT2aG-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="260" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="240" y="260" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="Connect.Core &#xa;(Core Lib)" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="280" y="80" width="172.5" height="440" as="geometry" />
@@ -61,17 +53,32 @@
             <mxPoint x="290" y="296" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uPZaJIyxfJ7PoCBkE-e1-27" value="get Template from hybris&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="280" width="150" height="20" as="geometry" />
+        <mxCell id="uPZaJIyxfJ7PoCBkE-e1-31" value="get key/item values&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="210" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uPZaJIyxfJ7PoCBkE-e1-30" value="" style="endArrow=classic;html=1;exitX=0.503;exitY=0.343;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3nuBFxr9cyL0pnOWT2aG-5" target="uPZaJIyxfJ7PoCBkE-e1-22">
+        <mxCell id="uPZaJIyxfJ7PoCBkE-e1-33" value="" style="endArrow=classic;html=1;entryX=0.485;entryY=0.405;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3nuBFxr9cyL0pnOWT2aG-5" target="uPZaJIyxfJ7PoCBkE-e1-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="320" as="sourcePoint" />
-            <mxPoint x="450" y="270" as="targetPoint" />
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="450" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="653" y="238" />
+              <mxPoint x="653" y="258" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uPZaJIyxfJ7PoCBkE-e1-31" value="get key/item values&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="200" width="120" height="20" as="geometry" />
+        <mxCell id="uPZaJIyxfJ7PoCBkE-e1-34" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;g&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uPZaJIyxfJ7PoCBkE-e1-35" value="get template from hybris based on the keys" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="250" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uPZaJIyxfJ7PoCBkE-e1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.003;exitY=0.92;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uPZaJIyxfJ7PoCBkE-e1-23" target="3nuBFxr9cyL0pnOWT2aG-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
