@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T07:42:30.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="dU5zaFvsjdLnCf19MFUY" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-22T07:44:47.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="AdA8i4ojgOM8Jg4XS05c" version="14.8.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#114B5F" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
           <mxGeometry x="440" y="250" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8tkr-KhlQ4kUat4qIyOS-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;fontFamily=Helvetica;fontSize=12;fontColor=#E4FDE1;align=center;strokeColor=#028090;fillColor=#F45B69;labelBackgroundColor=#114B5F;" parent="1" vertex="1">
-          <mxGeometry x="610" y="217.5" width="70" height="105" as="geometry" />
+          <mxGeometry x="612" y="208" width="70" height="105" as="geometry" />
         </mxCell>
         <mxCell id="U4aJJLkr5VwEqsjg9ysN-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
           <mxGeometry x="65.2" y="250" width="10" height="80" as="geometry" />
@@ -46,9 +46,6 @@
             <mxPoint x="110" y="330" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="o4F7I5KbzvhBMEf7b5Hm-12" value="Get" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#E4FDE1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="240" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o4F7I5KbzvhBMEf7b5Hm-25" value="Response" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
           <mxGeometry x="377.5" y="440" width="125" height="100" as="geometry" />
@@ -99,11 +96,6 @@
         <mxCell id="18Ler7sBSwxNWshURoEd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#114B5F;strokeColor=#028090;fontColor=#E4FDE1;" parent="18Ler7sBSwxNWshURoEd-6" source="18Ler7sBSwxNWshURoEd-7" target="18Ler7sBSwxNWshURoEd-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-wJCNphR5galvLtW1J4u-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;labelBackgroundColor=#114B5F;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" target="8tkr-KhlQ4kUat4qIyOS-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="545" y="270" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-wJCNphR5galvLtW1J4u-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;labelBackgroundColor=#114B5F;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" source="8tkr-KhlQ4kUat4qIyOS-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="399" as="targetPoint" />
@@ -116,9 +108,6 @@
         <mxCell id="-wJCNphR5galvLtW1J4u-21" value="MendixUID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#E4FDE1;" parent="-wJCNphR5galvLtW1J4u-19" vertex="1">
           <mxGeometry y="26" width="100" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="-wJCNphR5galvLtW1J4u-24" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;PostgreSQL&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#E4FDE1;" parent="1" vertex="1">
-          <mxGeometry x="605" y="200" width="80" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="4Nz6qEvkmZNa70ng-Zwl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#114B5F;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" source="-wJCNphR5galvLtW1J4u-21" target="o4F7I5KbzvhBMEf7b5Hm-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -129,10 +118,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NuTsC-qYxs-nushXYF4Y-11" value="Response" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="370" width="220" height="80" as="geometry" />
+          <mxGeometry x="130" y="370" width="125" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="NuTsC-qYxs-nushXYF4Y-12" value="responseCode:500&#xa;responseStatusCode:BAD_REQUEST&#xa;responseMessage:&quot;$CustomError&quot;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#E4FDE1;" vertex="1" parent="NuTsC-qYxs-nushXYF4Y-11">
-          <mxGeometry y="30" width="220" height="50" as="geometry" />
+        <mxCell id="NuTsC-qYxs-nushXYF4Y-12" value="responseCode:500&#xa;responseStatusCode:&#xa;BAD_REQUEST&#xa;responseMessage:&#xa;&quot;$CustomError&quot;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#E4FDE1;" vertex="1" parent="NuTsC-qYxs-nushXYF4Y-11">
+          <mxGeometry y="30" width="125" height="89" as="geometry" />
         </mxCell>
         <mxCell id="NuTsC-qYxs-nushXYF4Y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#114B5F;strokeColor=#028090;fontColor=#E4FDE1;" edge="1" parent="NuTsC-qYxs-nushXYF4Y-11" source="NuTsC-qYxs-nushXYF4Y-12" target="NuTsC-qYxs-nushXYF4Y-12">
           <mxGeometry relative="1" as="geometry" />
@@ -170,6 +159,9 @@
         </mxCell>
         <mxCell id="NuTsC-qYxs-nushXYF4Y-28" value="Duplicate&lt;br&gt;Claim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" vertex="1" parent="1">
           <mxGeometry x="339" y="231" width="71.5" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="NuTsC-qYxs-nushXYF4Y-29" value="Mendix DB(PgSQL)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="583" y="178" width="117" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
